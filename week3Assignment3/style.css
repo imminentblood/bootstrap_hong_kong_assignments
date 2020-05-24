@@ -1,0 +1,27 @@
+.jumbotron {
+  background-color: #b876f7;
+  /* margin-top: 20px; */
+}
+
+.footer {
+  background-color: #c799f1;
+}
+
+.address {
+  font-size: 80%;
+  margin: 0px;
+  color: #0f0f0f;
+}
+
+body {
+  padding: 50px 0px 0px 0px;
+  z-index: 0;
+}
+
+/* .mar {
+ margin-top: -32px;
+} */
+
+.navbar-dark {
+  background-color: #512dab;
+}
