@@ -1,0 +1,28 @@
+# 1 "f:\\Web Development\\hong kong\\Course1 bootstrap\\week2\\assignment2\\.vscode\\tasks.json"
+# 1 "C:\\TDM-GCC-64\\bin//"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "f:\\Web Development\\hong kong\\Course1 bootstrap\\week2\\assignment2\\.vscode\\tasks.json"
+{
+ "version": "2.0.0",
+ "tasks": [
+  {
+   "type": "shell",
+   "label": "shell: cpp.exe build active file",
+   "command": "C:\\TDM-GCC-64\\bin\\cpp.exe",
+   "args": [
+    "-g",
+    "${file}",
+    "-o",
+    "${fileDirname}\\${fileBasenameNoExtension}.exe"
+   ],
+   "options": {
+    "cwd": "C:\\TDM-GCC-64\\bin"
+   },
+   "problemMatcher": [
+    "$gcc"
+   ],
+   "group": "build"
+  }
+ ]
+}

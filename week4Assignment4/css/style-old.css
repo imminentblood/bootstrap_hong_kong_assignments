@@ -26,6 +26,14 @@ body {
   background-color: #512dab;
 }
 
+.modal-header {
+  background-color: #5934b4;
+}
+
+.modal-body {
+  background-color: #b876f7;
+}
+
 .tab-content {
   border-left: 1px solid #ddd;
   border-right: 1px solid #ddd;
@@ -46,4 +54,11 @@ body {
   top: 0;
   left: 0;
   min-height: 300px;
+}
+
+#carouselButton {
+  right: 0px;
+  position: absolute;
+  bottom: 0px;
+  z-index: 1;
 }
